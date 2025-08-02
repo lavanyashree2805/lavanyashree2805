@@ -28,12 +28,6 @@ I'm a final-year B.Tech student specializing in Electronics & Communication Engi
 
 ---
 
-### GitHub Stats
-
-![Lavanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=lavanyashree2805&show_icons=true&theme=default)
-
----
-
 ### Connect with Me
 [LinkedIn](https://www.linkedin.com/in/lavanya-shree) • [GitHub](https://github.com/lavanyashree2805)
 
