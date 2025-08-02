@@ -29,7 +29,7 @@ I'm a final-year B.Tech student specializing in Electronics & Communication Engi
 ---
 
 ### Connect with Me
-[LinkedIn]([https://www.linkedin.com/in/lavanya-shree-400942257/) • [GitHub](https://github.com/lavanyashree2805)
+[LinkedIn](https://www.linkedin.com/in/lavanya-shree-400942257/) • [GitHub](https://github.com/lavanyashree2805)
 
 ---
 
