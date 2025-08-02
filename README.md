@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Lavanya Shree
 
-<!--
-**lavanyashree2805/lavanyashree2805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a final-year B.Tech student specializing in Electronics & Communication Engineering with a focus on Artificial Intelligence at IGDTUW.
 
-Here are some ideas to get you started:
+### What I'm Building
+- **Age & Identity Verification System** — Using DeepFace, OCR, and Flask to verify Aadhaar-based identity with 92%+ accuracy.
+- **License Plate Detection for Indian Roads** — YOLOv8-based system to recognize EV/BH vehicle plates for traffic surveillance.
+- **PricePulse** — A dynamic ML-powered pricing engine to personalize e-commerce pricing and boost conversion rates.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Exploring
+- Building production-ready ML systems
+- Full-stack integrations using **Flask**, **Streamlit**, **React**, and **Firebase**
+- Advanced computer vision use-cases (YOLO, DeepFace, OpenCV)
+
+### Actively Looking To
+- Contribute to real-world SDE or ML projects
+- Intern or collaborate with companies solving large-scale problems
+- Improve system design and low-level CS skills
+
+---
+
+### Skills Snapshot
+
+**Languages:** Python, C++, SQL, JavaScript  
+**Frameworks/Tools:** TensorFlow, Keras, Streamlit, Node.js, Flutter, OpenCV  
+**Platforms:** Google Colab, Linux, Firebase  
+**Areas of Interest:** Computer Vision, Full Stack Web Dev, ML for social impact
+
+---
+
+### GitHub Stats
+
+![Lavanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=lavanyashree2805&show_icons=true&theme=default)
+
+---
+
+### Connect with Me
+[LinkedIn](https://www.linkedin.com/in/lavanya-shree) • [GitHub](https://github.com/lavanyashree2805)
+
+---
+
+### Featured Projects
+- [`FrankieOnFire`](https://github.com/lavanyashree2805/FrankieOnFire) – Aadhaar-based age & identity verification  
+- [`yolov8-license-plate-india`](https://github.com/lavanyashree2805/yolov8-license-plate-india) – Real-time vehicle license plate detection  
+- [`PricePulse`](https://github.com/lavanyashree2805/PricePulse) – Personalized dynamic pricing engine  
+
